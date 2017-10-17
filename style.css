@@ -1,0 +1,10 @@
+body {
+  background-color: #DDDDDD;
+  margin-top: 2px;
+}
+em {
+  font-weight: bold;
+}
+header, main, footer{
+  background-color: #F9F9F9;
+}
